@@ -1,0 +1,50 @@
+body {
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-width: 0px;
+	margin-height: 0px;
+	padding: 0px;
+	background-color: #FFFFFF;
+}
+.header {
+	background-color: #B5C6C6;
+}
+.content {
+	width: 90%;
+	margin: 20px;
+	background-color: #FFFFFF;
+}
+.hrefNode {
+	color: #000000;
+	background-color: #EBF1EF;
+	text-align: right;
+	text-decoration: none;
+}
+.dataGrid {
+	border-color: #FFFFFF;
+	border-style: none;
+	border-collapse: collapse;
+	width: 80%;
+	background-color: #FFFFFF;
+}
+.dataGrid th {
+	text-align:	center;
+	font-weight: normal;
+	font-size: 12px;
+	background-color: #7EA2BA;
+	border-width: 1px;
+	border-color: #BBBBBB;
+	border-style: solid;
+}
+.dataGrid td {
+	border-width: 1px;
+	border-color: #BBBBBB;
+	border-style: solid;
+}
+.label {
+	background-color: #BCD4E6;
+}
+.tdcontent {
+	background-color: #DDE6ED;
+	text-align: right;
+}
